@@ -42,6 +42,11 @@ class _ExpansionMenuViewState extends State<ExpansionMenuView> {
                     'Using ExpansionPanelList',
                     style: TextStyle(color: Colors.grey),
                   ),
+                  SizedBox(height: 8),
+                  Text(
+                    'MSSV: 6451071056',
+                    style: TextStyle(fontSize: 16, color: Colors.blueAccent, fontWeight: FontWeight.w500),
+                  ),
                 ],
               ),
             ),

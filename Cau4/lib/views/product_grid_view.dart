@@ -18,7 +18,7 @@ class ProductGridView extends StatelessWidget {
             padding: EdgeInsets.only(bottom: 6),
             child: Text(
               'MSSV: 6451071056',
-              style: TextStyle(color: Colors.white, fontSize: 13),
+              style: TextStyle(color: Colors.white, fontSize: 20),
             ),
           ),
         ),
